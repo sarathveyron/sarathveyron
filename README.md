@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarathveyron
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Cloud, DevOps and IT infra related technogies.
+- 🌱 I’m currently learning and practing Cloud and Devops related technologies.
 - 💞️ I’m looking to collaborate on Cloud and Devops related technologies
 - 📫 You can reach me on sarathveyron@gmail.com, on my Phone number 8848267527 or 9742777122
 
